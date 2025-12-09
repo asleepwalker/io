@@ -1,4 +1,4 @@
-## io - Input/Output Tracker
+## io
 
 ```bash
 npm start
