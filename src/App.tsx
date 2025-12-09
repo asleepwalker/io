@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import logo from '/logo.png'
+import Dashboard from './views/Dashboard/Dashboard'
 
 function App() {
   return (
-    <img src={logo} className="logo" alt="logo" width="256" />
+    <Dashboard />
   )
 }
 
