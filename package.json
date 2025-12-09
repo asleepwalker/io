@@ -1,0 +1,27 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "Input/Output Tracker",
+  "type": "module",
+  "keywords": [
+    "expense",
+    "tracker"
+  ],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/camera": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "^8.0.0",
+    "@capacitor/splash-screen": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "vite": "^5.4.2"
+  },
+  "author": "Artyom Fedosov",
+  "license": "MIT"
+}

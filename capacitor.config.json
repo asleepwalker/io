@@ -1,0 +1,10 @@
+{
+  "appId": "com.asleepwalker.io",
+  "appName": "io",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
